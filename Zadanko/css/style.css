@@ -1,0 +1,25 @@
+body{
+  width: 100%;
+  height: 100%;
+  display: table;
+  background-image: url("/resource/background.jpg");
+}
+
+#wrapper{
+  display: table-cell;
+  vertical-align: bottom;
+  text-align: center;
+  width: 30%;
+}
+
+#wrapper2{
+  vertical-align: top;
+  text-align: center;
+
+
+}
+
+#wynik {
+  margin-top: 5px;
+  width: 550px;
+}
